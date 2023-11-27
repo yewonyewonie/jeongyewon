@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.95b02bdf.css",
-    "main.js": "/portfolio/static/js/main.85c49d2c.js",
-    "static/media/kwangjuMo3.png": "/portfolio/static/media/kwangjuMo3.57360c4fe283a10735fe.png",
-    "static/media/domino.png": "/portfolio/static/media/domino.e8b7f8e8bfc923212720.png",
-    "static/media/bamMo4.png": "/portfolio/static/media/bamMo4.484d2b4d1b41599caa32.png",
-    "static/media/kwangjuMo1.png": "/portfolio/static/media/kwangjuMo1.22d5106799bd619d495c.png",
-    "static/media/bamMo3.png": "/portfolio/static/media/bamMo3.a0bb188f7745b25bf0dd.png",
-    "static/media/kwangjuMo4.png": "/portfolio/static/media/kwangjuMo4.847b03691eb69669e3b4.png",
-    "static/media/dokdo.png": "/portfolio/static/media/dokdo.c5a5d9b30b139778fc77.png",
-    "static/media/kolong.png": "/portfolio/static/media/kolong.2f9b48057357c16e5c4f.png",
-    "static/media/bamMo1.png": "/portfolio/static/media/bamMo1.7fed71c256fcf9062173.png",
-    "static/media/gofMainPc.png": "/portfolio/static/media/gofMainPc.5da0176dcd894814b092.png",
-    "static/media/bamMo2.png": "/portfolio/static/media/bamMo2.0472837ff6921804c98d.png",
-    "static/media/bamMainPc2.png": "/portfolio/static/media/bamMainPc2.c5c9522c223e7b421122.png",
-    "static/media/kwangju1.png": "/portfolio/static/media/kwangju1.4febbe88bd5fe72745b4.png",
-    "static/media/bameul.png": "/portfolio/static/media/bameul.02469043f14a65983010.png",
-    "static/media/kwangjuMo2.png": "/portfolio/static/media/kwangjuMo2.ac58d1e329f22f7e7023.png",
-    "static/media/yw2.png": "/portfolio/static/media/yw2.6a53023bb9a6d619e862.png",
-    "index.html": "/portfolio/index.html",
-    "main.95b02bdf.css.map": "/portfolio/static/css/main.95b02bdf.css.map",
-    "main.85c49d2c.js.map": "/portfolio/static/js/main.85c49d2c.js.map"
+    "main.css": "/jeongyewon/static/css/main.8dfc2235.css",
+    "main.js": "/jeongyewon/static/js/main.6874939e.js",
+    "static/media/kwangjuMo3.png": "/jeongyewon/static/media/kwangjuMo3.57360c4fe283a10735fe.png",
+    "static/media/domino.png": "/jeongyewon/static/media/domino.e8b7f8e8bfc923212720.png",
+    "static/media/bamMo4.png": "/jeongyewon/static/media/bamMo4.484d2b4d1b41599caa32.png",
+    "static/media/kwangjuMo1.png": "/jeongyewon/static/media/kwangjuMo1.22d5106799bd619d495c.png",
+    "static/media/bamMo3.png": "/jeongyewon/static/media/bamMo3.a0bb188f7745b25bf0dd.png",
+    "static/media/kwangjuMo4.png": "/jeongyewon/static/media/kwangjuMo4.847b03691eb69669e3b4.png",
+    "static/media/dokdo.png": "/jeongyewon/static/media/dokdo.c5a5d9b30b139778fc77.png",
+    "static/media/kolong.png": "/jeongyewon/static/media/kolong.2f9b48057357c16e5c4f.png",
+    "static/media/bamMo1.png": "/jeongyewon/static/media/bamMo1.7fed71c256fcf9062173.png",
+    "static/media/gofMainPc.png": "/jeongyewon/static/media/gofMainPc.5da0176dcd894814b092.png",
+    "static/media/bamMo2.png": "/jeongyewon/static/media/bamMo2.0472837ff6921804c98d.png",
+    "static/media/bamMainPc2.png": "/jeongyewon/static/media/bamMainPc2.c5c9522c223e7b421122.png",
+    "static/media/kwangju1.png": "/jeongyewon/static/media/kwangju1.4febbe88bd5fe72745b4.png",
+    "static/media/bameul.png": "/jeongyewon/static/media/bameul.02469043f14a65983010.png",
+    "static/media/kwangjuMo2.png": "/jeongyewon/static/media/kwangjuMo2.ac58d1e329f22f7e7023.png",
+    "static/media/yw2.png": "/jeongyewon/static/media/yw2.6a53023bb9a6d619e862.png",
+    "index.html": "/jeongyewon/index.html",
+    "main.8dfc2235.css.map": "/jeongyewon/static/css/main.8dfc2235.css.map",
+    "main.6874939e.js.map": "/jeongyewon/static/js/main.6874939e.js.map"
   },
   "entrypoints": [
-    "static/css/main.95b02bdf.css",
-    "static/js/main.85c49d2c.js"
+    "static/css/main.8dfc2235.css",
+    "static/js/main.6874939e.js"
   ]
 }
