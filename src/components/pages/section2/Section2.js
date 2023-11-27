@@ -151,11 +151,9 @@ function Section2() {
                         </div>
                 </div>
             </div>
-            <div className='mockupImgWrap'>
                 <div className='kwangjuWrap'>
                     <div className='mockupImg bam'></div>
                 </div>
-            </div>
         </div>
     </section>
   )

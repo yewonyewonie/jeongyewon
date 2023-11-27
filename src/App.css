@@ -87,6 +87,12 @@ footer>div>p{
     }
 }
 
+@media screen and (max-width: 768px){
+    p, a{
+        font-size: 14px;
+    }
+}
+
 @media screen and (max-width: 460px){
     p, a{
         font-size: 14px;

@@ -22,7 +22,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://yewonyewonie.github.io/portfolio/",
+  "homepage": "https://yewonyewonie.github.io/jeongyewon/",
   "eslintConfig": {
     "extends": [
       "react-app",

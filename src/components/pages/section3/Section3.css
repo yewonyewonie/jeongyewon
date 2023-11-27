@@ -139,3 +139,18 @@
         padding: 30px;
     }
 }
+@media screen and (max-width: 460px){
+    .cloneImgWrap{
+        height: 300px;
+    }
+    .hovering{
+        padding: 20px 10px;
+    }
+    .CloneTitle{
+        font-size: 16px;
+        margin: 0 0 5px 0;
+    }
+    .btn{
+        margin: 20px 0 0 0;
+    }
+}

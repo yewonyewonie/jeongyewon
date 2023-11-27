@@ -7,14 +7,14 @@ function aboutMe() {
     <section className='width100 aboutMe' id='aboutme'>
         <div className='aboutMeWrap width1280px  flex'>
           <h1 className='font40 aboutMeFont'>ABOUT ME</h1>
-            <section className='flex'>
+            <section className='flex culumn'>
               <div className='yw'>
                 <div className='ywImg margin50'></div>
                 <li className='flex'>
                   <p className='introduce'>안녕하세요 3년 5개월차 디자이너에서 프론트엔드까지 자기계발을 하는 정예원입니다.</p>
                 </li>
               </div>
-              <div>
+              <div className='flex460'>
                 <div className='height200 margin50'>
                   <p className='about'>| ABOUT</p>
                   <ul>
@@ -54,7 +54,7 @@ function aboutMe() {
                   </ul>
                 </div>
               </div>
-              <div>
+              <div className='flex460'>
                 <div className='height200 margin50'>
                   <p className='license'>| LICENSE</p>
                   <ul>
@@ -90,7 +90,7 @@ function aboutMe() {
                   </ul>
                 </div>
               </div>
-              <div>
+              <div className='flex460'>
                 <div className='height200 margin50'>
                   <p className='skills'>| SKILLS</p>
                   <ul className='flex iconWrap'>
