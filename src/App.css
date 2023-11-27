@@ -1,0 +1,102 @@
+*{box-sizing: border-box; margin: 0; padding: 0;}
+li{list-style-type: none;}
+a{color: #000; text-decoration: none;}
+p{line-height: 150%;}
+
+
+.width1280px{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.height100{
+    height: 100%;
+}
+
+.flex{
+    display: flex;
+}
+
+header, .width100{
+    width: 100%;
+}
+
+.sectionWrap{
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.font40{
+    font-size: 40px;
+    margin: 10px 0 40px 0;
+}
+
+.btn{
+    display: inline-block;
+    margin: 30px 10px 0 0;
+    padding: 5px 30px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+h1, p{
+    color: #222;
+}
+
+/* 푸터 */
+footer{
+    height: 150px;
+    background-color: #2e2e2e;
+}
+
+footer>div{
+    height: 100%;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer>div>p{
+    color: white;
+}
+
+@media screen and (max-width: 1280px){
+    .width1280px{
+        width: 100%;
+        padding: 0 50px;
+    }
+}
+@media screen and (max-width: 1024px){
+    .width1280px{
+        width: 100%;
+        padding: 0 30px;
+    }
+    .font40{
+        font-size: 32px;
+        margin: 10px 0 30px 0;
+    }
+}
+@media screen and (max-width: 768px){
+    .width1280px{
+        width: 100%;
+        padding: 100px 50px;
+    }
+    .font40{
+        font-size: 32px;
+        margin: 10px 0 30px 0;
+    }
+}
+
+@media screen and (max-width: 460px){
+    p, a{
+        font-size: 14px;
+    }
+    .width1280px{
+        width: 100%;
+        padding: 100px 30px;
+    }
+    .font40{
+        font-size: 28px;
+        margin: 10px 0 30px 0;
+    }
+}

@@ -1,0 +1,312 @@
+.project1{
+    background-color: rgb(247, 247, 247);
+}
+
+.text{
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sectionWrap{
+    width: 1280px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .sectionWrap>div{
+    position: absolute;
+    top: 50%;
+    left: 0;
+} */
+
+.greenTitle{
+    color: #839914; 
+}
+
+.kwangjuWrap{
+    width: 640px; height: 480px;
+}
+
+.mockupImg{
+    width: 100%; height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.kwangju{
+    background-image: url(../../../img/kwangju1.png);
+}
+.bam{
+    background-image: url(../../../img/bameul.png);
+}
+
+
+.infoWrap>li{
+    display: flex;
+    margin: 5px 0;
+}
+
+.infoWrap>li>p:first-child{
+    width: 100px;
+    font-weight: bold;
+}
+
+.sec1Btn{
+    border: 1px solid #839914;
+    color: #839914;
+    transition: all 0.2s linear;
+    background-color: #fff;
+}
+.sec1Btn>a{
+    color: #839914;
+}
+.sec1Btn:hover{
+    background-color: #839914;
+    border: 1px solid #839914;
+    color: white;
+}
+.sec1Btn>a:hover{
+    color: white;
+}
+
+.sec2Btn{
+    border: 1px solid #403163;
+    color: #403163;
+    transition: all 0.2s linear;
+}
+
+.sec2Btn:hover{
+    background-color: #403163;
+    border: 1px solid #403163;
+    color: white;
+}
+
+
+
+/* 여기서부터 모달 */
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 60;
+  }
+  
+  .modalContent {
+    width: 1080px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 100px 100px 0 100px;
+    border-radius: 8px;
+    overflow: scroll;
+    height: 800px;
+  }
+  
+  .closeModal {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    cursor: pointer;
+    font-size: 40px;
+    color: #555;
+  }
+
+.modalSection{
+    margin-bottom: 100px;
+
+}
+
+.ModalTitle{
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.ModalSubTitle{
+    font-size: 24px;
+    color: #666;
+    margin-bottom: 20px;
+    font-weight:500;
+}
+
+.color{
+    margin-right: 10px;
+    width: 100px; height: 100px;
+    border-radius: 10px;
+    padding-top: 70px;
+    padding-left: 10px;
+}
+
+.colorsWrap{
+    margin-bottom: 50px;
+}
+
+.Green{
+    background-color: #95A835;
+    color: white;
+}
+.black{
+    background-color: #000;
+    color: white;
+}
+.black2{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+.white{
+    background-color: #fff;
+    border: 1px solid #999;
+}
+.lightBlue{
+    background-color: #33bbc5;
+    color: white;
+}
+
+.purple1{
+    background-color: #352F44;
+    color: white;
+}
+
+.logo1{
+    width: 150px;
+    height: 63px;
+    background: url(../../../img/bam_logo1.png);
+}
+.logo2{
+    width: 150px;
+    height: 63px;
+    background: url(../../../img/bam_logo2.png);
+}
+.logo3{
+    width: 150px;
+    height: 63px;
+    background: url(../../../img/bam_logo3.png);
+}
+
+.logo1, .logo2{
+    margin-right: 20px;
+}
+
+.purple2{
+    background-color: #2A2438;
+    color: white;
+}
+
+.fontsSizeWrap>div{
+    justify-content: space-between;
+}
+
+.fontsSizeWrap>div>p{
+    margin-bottom: 5px;
+}
+
+.mainPageWrap{
+    margin-bottom: 50px;
+}
+
+.bamMainPage{ 
+    width: auto;
+    height: 370px;
+    background-size: 100%;
+    background-image: url(../../../img/bamMainPc2.png);
+    background-repeat: no-repeat;
+}
+.golfMainPc{
+    width: auto;
+    height: 370px;
+    background-size: 100%;
+    background-image: url(../../../img/gofMainPc.png);
+    background-repeat: no-repeat;
+}
+
+.subPgWrap>div{
+    width: calc((100% - 20px)/4);
+}
+
+.MainMo{
+    width: auto;
+    height: 370px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.bamMainMo1{
+    background-image: url(../../../img/bamMo1.png);
+}
+.bamMainMo2{
+    background-image: url(../../../img/bamMo2.png);
+}
+.bamMainMo3{
+    background-image: url(../../../img/bamMo3.png);
+}
+.bamMainMo4{
+    background-image: url(../../../img/bamMo4.png);
+}
+.kwangjuMo1{
+    background-image: url(../../../img/kwangjuMo1.png);
+}
+.kwangjuMo2{
+    background-image: url(../../../img/kwangjuMo2.png);
+}
+.kwangjuMo3{
+    background-image: url(../../../img/kwangjuMo3.png);
+}
+.kwangjuMo4{
+    background-image: url(../../../img/kwangjuMo4.png);
+}
+
+@media screen and (max-width: 1280px){
+    .width1280px{
+        width: 100%;
+        padding: 0 50px;
+    }
+    .sectionWrap{
+        padding: 0px 50px;
+    }
+
+}
+@media screen and (max-width: 1024px){
+    .kwangjuWrap{
+        width: 470px; height: 350px;
+    }
+}
+@media screen and (max-width: 768px){
+    .mockupImgWrap{
+        margin-top: 100px;
+    }
+    .kwangjuWrap{
+        width: 640px; height: 480px;
+        margin-bottom: 40px;
+    }
+    .sectionWrap{
+        height: 100%;
+        padding: 100px 50px 0 50px;
+        flex-wrap: wrap-reverse;
+        justify-content: start;
+    }
+    .project2{
+        padding-bottom: 100px;
+    }
+}
+@media screen and (max-width: 460px){
+    .mockupImgWrap{
+        margin-top: 100px;
+    }
+    .kwangjuWrap{
+        width: 460px; height: 480px;
+        margin-bottom: 40px;
+    }
+    .sectionWrap{
+        height: 100%;
+        padding: 100px 50px 0 50px;
+        flex-wrap: wrap-reverse;
+        justify-content: start;
+    }
+    .project2{
+        padding: 100px 0px 0 0px;
+        padding-bottom: 100px;
+    }
+}
