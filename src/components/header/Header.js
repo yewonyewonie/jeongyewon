@@ -15,7 +15,7 @@ function Header() {
   return (
     <header>
       <section className='width1280px HeaderWrap flex'>
-        <h1>LOGO</h1>
+        <h1>JYW</h1>
         <ul className='flex navWrap'>
           <li onClick={() => scrollToSection('aboutme')}>ABOUT ME</li>
           <li onClick={() => scrollToSection('project1')}>PROJECT1</li>
